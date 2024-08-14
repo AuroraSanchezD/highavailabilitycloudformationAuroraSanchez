@@ -1,0 +1,11 @@
+[
+	{
+		"ParameterKey": "ProjectName",
+		"ParameterValue": "AuroraProject"
+	},
+	{
+		"ParameterKey": "AutoScalingGroupCapacity",
+		"ParameterValue": "1"
+	}
+
+]

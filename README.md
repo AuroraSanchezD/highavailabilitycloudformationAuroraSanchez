@@ -25,7 +25,7 @@ Once we have seen a "StackId" in the bash terminal and the stack has finished cr
 http://udagra-LoadB-z9TKCe3fjwma-2108201856.us-east-1.elb.amazonaws.com
 
 
-[!Completed](screenshot/DNSresultscreenshot.png)
+![Completed](screenshot/DNSresultscreenshot.png)
 
 ## Tear down instructions
 

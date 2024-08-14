@@ -4,7 +4,7 @@ AURORA SANCHEZ DIAZ
 This project spins up a high-availability web server (2 AZs) with CloudFormation Templates. 
 
 The project follows this infrastructure:
-![diagram](diagram\CloudFormationProjectDiagram.jpg)
+![diagram](diagram/CloudFormationProjectDiagram.jpg)
 
 ## Spin up instructions
 
